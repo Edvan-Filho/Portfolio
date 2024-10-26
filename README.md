@@ -1,3 +1,3 @@
 # Portfolio
-(Em Desenvolvimento)
+Em Desenvolvimento ⌛🚧⚠️
  
