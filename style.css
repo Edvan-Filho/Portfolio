@@ -124,6 +124,10 @@ body {
     max-width: 1080px;
 }
 
+.flex{
+    display: flex;
+}
+
 /* Estilo cabeçalho */
 header {
     padding: 40px 4%;
@@ -168,3 +172,37 @@ header .bnt-contato button {
 
 
 }
+header .bnt-contato button:hover {
+    box-shadow: 0px 0pc 8px rgba(0, 255, 255, 0.633);
+}
+
+header .bnt-contato button:hover {
+    color: #5b5b5b;
+    transform: scale(1.04 );
+
+}
+
+/* ESTILO DO TOPO DO SITE */
+
+section.topo-do-site{
+    padding: 40px 4%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
